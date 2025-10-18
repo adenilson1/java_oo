@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+/home/ad-linux/eclipse-workspace/codigosJava2/s_01_01_override/.metadata/.plugins/org.eclipse.jdt.core
